@@ -143,3 +143,24 @@ body {
 .legacy-form-row input [type="radio"]{
     float: left;
 }
+
+.form-row label{
+    text-align: center;
+    width: 120px;
+    margin-top: px;
+    padding-right: 20px;
+}
+
+.legacy-form-row{
+    margin-bottom: 10px;
+}
+
+.legacy-form-row legend{
+    width: 120px;
+    text-align: right;
+    padding-right: 20px;
+}
+
+.legacy-form-row legend{
+    float: left;
+}
